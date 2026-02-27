@@ -5,4 +5,6 @@ int main()
     printf("Hello World");
     printf("Start new");
     printf("Modifying");
+
+    printf("new");
 }
