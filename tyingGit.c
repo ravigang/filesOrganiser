@@ -1,7 +1,8 @@
 #include <stdio.h>
-int main(){
+int main()
+{
 
     printf("Hello World");
     printf("Start new");
-    printf("Modyfying");
+    printf("Modifying");
 }
